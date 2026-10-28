@@ -69,7 +69,7 @@ Two things I do: make complex systems legible, and turn design judgment into som
 
 > **4 个完整项目 + 可旋转的 3D 白模，用网页把"设计过程"而不是"效果图"讲出来。**
 
-- **在线地址**：<https://57fe846e3730424ab2d3fae23fd838e9.app.workbuddy.link/index.html>
+- **在线地址**：<https://wengyanbin-portfolio.app.workbuddy.host/>
 - **4 个项目**：单反相机（DSLR）· 头戴式耳机 · 智能猫窝 · 越野玩具车
 - **统一叙事结构**：问题定义 → 调研 → 概念 → 迭代 → 最终方案
 - **硬规则**：主图必须是 **Rhino / KeyShot 真实渲染**，AI 只做场景氛围；图片严格保持原始长宽比，禁止拉伸变形
